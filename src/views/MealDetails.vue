@@ -54,7 +54,7 @@
 </template>
 
 <script setup>
-  import { onMounted, ref } from "vue';
+  import { onMounted, ref } from "vue";
   import { useRoute } from "vue-router";
 
   import YouTubeButton from "../components/YouTubeButton.vue";
